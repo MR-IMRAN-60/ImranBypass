@@ -2,7 +2,7 @@
 	"name": "Imran",
 	"version": "1.0.6",
 	"description": "A simple Facebook Messenger Bot By Rahad",
-	"main": "ZiaRein.js",
+	"main": "imran.js",
 	"scripts": {
 		"start": "node index.js",
 		"login": "node login",
