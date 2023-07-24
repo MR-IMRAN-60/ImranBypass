@@ -1,2 +1,0 @@
-# ImranBypass
-massnger Bot
