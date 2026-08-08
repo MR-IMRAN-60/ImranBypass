@@ -3,8 +3,9 @@
   "sim1": "http://5.9.12.94:14642",
   "font": "http://5.9.12.94:15280",
   "oi": "https://www.noobs-api.rf.gd",
-  "drive": "https://drive-api-imran-lilac.vercel.app/api",
+  "drive": "https://drive-api-imran-taupe.vercel.app/api",
   "wlc": "http://fi4.bot-hosting.net:22413",
   "api": "http://104.234.236.59:30070",
-  "drivee": "https://drive-api-imran-taupe.vercel.app/api"
+  "drivee": "https://drive-api-imran-taupe.vercel.app/api",
+  "olddrive": "https://drive-api-imran-lilac.vercel.app/api
 }
